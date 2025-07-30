@@ -22,8 +22,9 @@ Este projeto tem como objetivo avaliar a performance dessas campanhas, explorar 
 
 ├── dashboardMarketing.pbix        # Dashboard em Power BI
 ├── relatorio.pdf                  # Versão em PDF do relatório
-├── testesestatísticos.ipynb       # Testes estatísticos da nálise 
-└── README.md                      # Documentação do projeto
+└── testesestatísticos.ipynb       # Testes estatísticos da nálise 
+
+README.md                      # Documentação do projeto
 ```
 
 ## 👩‍💻 Como vizualizar o dashboard
@@ -33,3 +34,7 @@ Este projeto tem como objetivo avaliar a performance dessas campanhas, explorar 
    2. Encontre o arquivo .pbix neste repositório (dashboardVendas.pbix);
 
    3. Clique no arquivo supracitado e, em seguida, "View Raw" para realizar o download;
+
+## 👥 Contato e contribuições
+
+* Caso queira agregar de alguma forma ou tenha dúvidas sobre o projeto, sinta-se à vontade para entrar em contato comigo via [linkedin](https://www.linkedin.com/in/medeiroscecilia22/) ou [me enviar um e-mail](https://mail.google.com/mail/?view=cm&to=cms5@cesar.school&su=Olá%20Cecília&body=Quero%20falar%20sobre%20seu%20projeto!).
