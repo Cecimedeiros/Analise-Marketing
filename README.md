@@ -1,4 +1,4 @@
-# Projeto de Análise de Campanha de Marketing com foco em Performance e Perfil de Consumidores
+# Projeto de Análise de Campanha de Marketing com foco em Performance das Campanhas e Perfil de Consumidores
 
 ## 🧠 Contexto Fictício
 A FindIT é uma rede de varejo consolidada com forte atuação em lojas físicas, e-commerce e vendas por catálogo. Para ampliar seu alcance e entender melhor o comportamento de seus consumidores, a empresa investiu em diversas campanhas de marketing — porém, sem uma estratégia baseada em dados.
